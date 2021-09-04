@@ -3,9 +3,9 @@
 <h4 align="center"> I am a learner who tries to learn everything about Android/Kotlin</h4>
 
 </br>
-
-<div align="center">
    [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+<div align="center">
+
 <a href="https://play.google.com/store/apps/developer?id=BERKER" target="_blank">
    
    <img src="https://cdn.freebiesupply.com/logos/large/2x/google-play-store-logo-png-transparent.png" alt="PlayStore" width="50" height="60">
